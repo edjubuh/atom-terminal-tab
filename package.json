@@ -1,5 +1,5 @@
 {
-  "name": "terminal-tab",
+  "name": "terminal-tab-plus",
   "main": "./lib/main",
   "version": "0.5.7",
   "description": "A simple terminal for panes and docks.",
@@ -22,8 +22,7 @@
     "tty",
     "xterm"
   ],
-  "homepage": "https://atom.io/packages/terminal-tab",
-  "repository": "https://github.com/jsmecham/atom-terminal-tab",
+  "repository": "https://github.com/edjubuh/atom-terminal-tab",
   "license": "MIT",
   "engines": {
     "atom": ">=1.19.0 <2.0.0"
